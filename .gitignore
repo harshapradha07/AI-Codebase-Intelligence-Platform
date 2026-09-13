@@ -1,0 +1,8 @@
+_cloned_repos/
+node_modules/
+dist/
+backend/API.env
+backend/venv/
+__pycache__/
+*.pyc
+.env_cloned_repos/
